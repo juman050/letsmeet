@@ -3,7 +3,7 @@
 namespace App;
 
 use Illuminate\Database\Eloquent\Model;
-
+//Author:: juman
 class Meetuser extends Model
 {
     public function posts()
